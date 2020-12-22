@@ -1,0 +1,14 @@
+{
+    "name": "syx/yii2-mongodb",
+    "description": "Transactions",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiang",
+            "email": "122093505@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
